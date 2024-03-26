@@ -1,5 +1,5 @@
 # EDA Y REGRESIONES
-<img src="https://github.com/GsusSant/Numpy-Exercise/assets/161477129/145591e2-d691-48f7-b8a3-3aa46f7745f2" alt="Descripción de la imagen" style="width: 500px;">
+<img src="https://github.com/GsusSant/Possum-Regression-/assets/161477129/11b7efc7-37bb-4735-9396-3c16afb6a620" alt="Descripción de la imagen" style="width: 1000px;">
 
 ********************
 Bienvenidos al repositorio de EDA y Regresiones. Este espacio ha sido creado para proporcionar una colección de recursos y ejercicios prácticos destinados a mejorar las habilidades en el análisis exploratorio de datos (EDA) y en la construcción de modelos de regresión.

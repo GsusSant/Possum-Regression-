@@ -1,4 +1,6 @@
 # EDA Y REGRESIONES
+![image](https://github.com/GsusSant/Possum-Regression-/assets/161477129/ca171e78-bb56-4ec3-af8a-87683dd64ff2)
+
 <img src="https://github.com/GsusSant/Possum-Regression-/assets/161477129/11b7efc7-37bb-4735-9396-3c16afb6a620" alt="Descripción de la imagen" style="width: 1000px;">
 
 ********************
